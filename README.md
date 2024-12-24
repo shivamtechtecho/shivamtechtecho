@@ -1,8 +1,8 @@
-[![MasterHead](https://camo.githubusercontent.com/5b2d5b2a55adade2d68bd7307552bde3ab71a797bf92ceb08158a483cb89cdd9/68747470733a2f2f776562636c6f7564746563686e6f6c6f67792e696e2f77702d636f6e74656e742f75706c6f6164732f323032322f30372f5765622d44657369676e696e672d42616e6e65722e676966)](https://github.com/shivamtechtecho)
+[![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)](https://github.com/shivamtechtecho)
 <h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamtechtecho&label=Profile%20views&color=0e75b6&style=flat" alt="shivamtechtecho" /> </p>
 
