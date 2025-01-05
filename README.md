@@ -1,4 +1,4 @@
-[![MasterHead]([https://c.tenor.com/C1r3YSmu4IQAAAAd/tenor.gif](https://media1.tenor.com/m/2nKSTDDekOgAAAAd/coding-kira.gif))](https://github.com/shivamtechtecho)
+[![MasterHead](https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif)](https://github.com/shivamtechtecho)
 <h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
