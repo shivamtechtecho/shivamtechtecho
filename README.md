@@ -1,4 +1,4 @@
-[![MasterHead]([https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif](https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif))](https://github.com/shivamtechtecho)
+[![MasterHead]([(https://media1.tenor.com/m/C1r3YSmu4IQAAAAd/coding.gif)])(https://github.com/shivamtechtecho)
 <h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
