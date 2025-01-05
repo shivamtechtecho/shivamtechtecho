@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/129463490889ef4c7bcdfaeb4afa3f6e93b223ead98b5021b175085440da90e2/68747470733a2f2f692e726564642e69742f6e38616777367a32736d7962312e676966)](https://github.com/shivamtechtecho)
 <h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A Full Stack Developer passionate about building dynamic web applications. I love turning ideas into code and continuously learning ne</h3>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
 
